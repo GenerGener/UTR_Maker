@@ -1,0 +1,702 @@
+LOCUS       MZ242719                9173 bp    RNA     linear   SYN 08-NOV-2021
+DEFINITION  Mutant HIV-1 clone MSTRG.2.4 from USA genomic sequence.
+ACCESSION   MZ242719
+VERSION     MZ242719.1
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+REFERENCE   1  (bases 1 to 9173)
+  AUTHORS   Gener,A.R.
+  TITLE     The Transcriptional Landscape of HIV-1 Virion-Associated mRNA
+            Includes Sense Spliced and Unspliced Transcripts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 9173)
+  AUTHORS   Gener,A.R., Foley,B.T., Hyink,D.P., Klotman,P.E. and Kimata,J.T.
+  TITLE     The Transcriptional Landscape of HIV-1 Virion-Associated mRNA
+            Includes Sense Spliced and Unspliced Transcripts
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 9173)
+  AUTHORS   Gener,A.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2021) Medicine, Nephrology, Baylor College of
+            Medicine, One Baylor Plaza, Mail Stop 710, Houston, TX 77030, USA
+FEATURES             Location/Qualifiers
+     source          1..9173
+                     /organism="Human immunodeficiency virus 1"
+                     /mol_type="genomic RNA"
+                     /strain="NL4-3"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /clone="MSTRG.2.4"
+                     /geo_loc_name="USA"
+                     /note="VIR(HIV-1)_ISO(NL4-3)_UTR(A)_ORF(A)_SEG(1,1,1,1,1,
+                     1,1,1,1,1,1);
+                     group: M; subgroup: B"
+     misc_feature    1..290
+                     /note="locus segment 1; Minimal 5' UTR segment
+                     (constitutive)"
+     repeat_region   1..97
+                     /note="5' R repeat"
+     misc_feature    98..181
+                     /note="Unique 5' (U5)"
+     misc_feature    238..281
+                     /note="Psi SL1"
+     misc_feature    283..301
+                     /note="Psi SL2"
+     misc_feature    291..4459
+                     /note="locus segment 2; gag-pol segment"
+     misc_feature    313..326
+                     /note="Psi SL3"
+     gene            337..8332
+                     /gene="gag-pol"
+     CDS             join(337..1632,1632..4509,4937..5010,5523..5591,
+                     7916..8332)
+                     /gene="gag-pol"
+                     /ribosomal_slippage
+                     /note="Expected to be expressed in infected cells and
+                     immature virions. Predicted cleavage product contains an
+                     integrase (IN) isoform GENER7-integrase truncated at IN
+                     c-terminus and fused with middle part of Vif, small novel
+                     linker and Env c-terminus; HIV-1 splice-associated
+                     putative protein"
+                     /codon_start=1
+                     /product="GENER7-Gag-Pol"
+                     /protein_id="UED13366.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFFREDLAFPQGKAREFSS
+                     EQTRANSPTRRELQVWGRDNNSLSEAGADRQGTVSFSFPQITLWQRPLVTIKIGGQLK
+                     EALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVG
+                     PTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEI
+                     CTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP
+                     HPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGW
+                     KGSPAIFQCSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLR
+                     WGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQ
+                     IYAGIKVRQLCKLLRGTKALTEVVPLTEEAELELAENREILKEPVHGVYYDPSKDLIA
+                     EIQKQGQGQWTYQIYQEPFKNLKTGKYARMKGAHTNDVKQLTEAVQKIATESIVIWGK
+                     TPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIIGAETFYVD
+                     GAANRETKLGKAGYVTDRGRQKVVPLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQY
+                     ALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKV
+                     LFLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCS
+                     PGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTVHT
+                     DNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVIESMNKELKKIIGQVRDQAEHLK
+                     TAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSR
+                     DPVWKGPAKLLWKESAIRNTILGRIVSPRCEYQAGHNKEEAETATKSSSEQSDSSSFS
+                     IKATHLPIPRGPDRPEGIEEEGGERDRDRSIRLVNGSLALIWDDLRSLCLFSYHRLRD
+                     LLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAVNLLNATAIAVAEGTDRVIE
+                     VLQAAYRAIRHIPRRIRQGLERILL"
+     CDS             join(337..1632,1632..4509,5523..5591,7916..8190)
+                     /gene="gag-pol"
+                     /ribosomal_slippage
+                     /note="Expected to be expressed in infected cells and
+                     immature virions. Predicted cleavage product contains an
+                     integrase (IN) isoform GENER4-integrase truncated at IN
+                     c-terminus and fused with most of Rev c-terminus; HIV-1
+                     splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER4-Gag-Pol"
+                     /protein_id="UED13367.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFFREDLAFPQGKAREFSS
+                     EQTRANSPTRRELQVWGRDNNSLSEAGADRQGTVSFSFPQITLWQRPLVTIKIGGQLK
+                     EALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVG
+                     PTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEI
+                     CTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP
+                     HPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGW
+                     KGSPAIFQCSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLR
+                     WGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQ
+                     IYAGIKVRQLCKLLRGTKALTEVVPLTEEAELELAENREILKEPVHGVYYDPSKDLIA
+                     EIQKQGQGQWTYQIYQEPFKNLKTGKYARMKGAHTNDVKQLTEAVQKIATESIVIWGK
+                     TPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIIGAETFYVD
+                     GAANRETKLGKAGYVTDRGRQKVVPLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQY
+                     ALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKV
+                     LFLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCS
+                     PGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTVHT
+                     DNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVIESMNKELKKIIGQVRDQAEHLK
+                     TAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSR
+                     DPVWKGPAKLLWKGRSGDSDEELIRTVRLIKLLYQSNPPPNPEGTRQARRNRRRRWRE
+                     RQRQIHSISERILSTYLGRSAEPVPLQLPPLERLTLDCNEDCGTSGTQGVGSPQILVE
+                     SPTVLESGTKE"
+     CDS             join(337..1632,1632..4509,5523..5599)
+                     /gene="gag-pol"
+                     /ribosomal_slippage
+                     /note="Expected to be expressed in infected cells and
+                     immature virions. Predicted cleavage product contains an
+                     integrase (IN) isoform GENER5-integrase truncated at IN
+                     c-terminus and fused with a middle portion of Rev and
+                     short novel c-terminus; HIV-1 splice-associated putative
+                     protein"
+                     /codon_start=1
+                     /product="GENER5-Gag-Pol"
+                     /protein_id="UED13368.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFFREDLAFPQGKAREFSS
+                     EQTRANSPTRRELQVWGRDNNSLSEAGADRQGTVSFSFPQITLWQRPLVTIKIGGQLK
+                     EALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVG
+                     PTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEI
+                     CTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP
+                     HPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGW
+                     KGSPAIFQCSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLR
+                     WGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQ
+                     IYAGIKVRQLCKLLRGTKALTEVVPLTEEAELELAENREILKEPVHGVYYDPSKDLIA
+                     EIQKQGQGQWTYQIYQEPFKNLKTGKYARMKGAHTNDVKQLTEAVQKIATESIVIWGK
+                     TPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIIGAETFYVD
+                     GAANRETKLGKAGYVTDRGRQKVVPLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQY
+                     ALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKV
+                     LFLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCS
+                     PGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTVHT
+                     DNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVIESMNKELKKIIGQVRDQAEHLK
+                     TAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSR
+                     DPVWKGPAKLLWKGRSGDSDEELIRTVRLIKLLYQSSK"
+     CDS             join(337..1632,1632..4605,5324..5349)
+                     /gene="gag-pol"
+                     /ribosomal_slippage
+                     /note="Expected to be expressed in infected cells and
+                     immature virions. Predicted cleavage product contains an
+                     integrase (IN) isoform GENER9-integrase truncated at IN
+                     c-terminus and fused with a novel c-terminus; HIV-1
+                     splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER9-Gag-Pol"
+                     /protein_id="UED13369.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFFREDLAFPQGKAREFSS
+                     EQTRANSPTRRELQVWGRDNNSLSEAGADRQGTVSFSFPQITLWQRPLVTIKIGGQLK
+                     EALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVG
+                     PTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEI
+                     CTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP
+                     HPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGW
+                     KGSPAIFQCSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLR
+                     WGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQ
+                     IYAGIKVRQLCKLLRGTKALTEVVPLTEEAELELAENREILKEPVHGVYYDPSKDLIA
+                     EIQKQGQGQWTYQIYQEPFKNLKTGKYARMKGAHTNDVKQLTEAVQKIATESIVIWGK
+                     TPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIIGAETFYVD
+                     GAANRETKLGKAGYVTDRGRQKVVPLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQY
+                     ALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKV
+                     LFLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCS
+                     PGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTVHT
+                     DNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVIESMNKELKKIIGQVRDQAEHLK
+                     TAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSR
+                     DPVWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRDYGKQMAELGVDIAE"
+     CDS             join(337..1632,1632..4509,4937..5166)
+                     /gene="gag-pol"
+                     /ribosomal_slippage
+                     /note="Expected to be expressed in infected cells and
+                     immature virions. Predicted cleavage product contains an
+                     integrase (IN) isoform GENER6/8-integrase truncated at IN
+                     c-terminus and fused with the Vif c-terminus; HIV-1
+                     splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER6/8-Gag-Pol"
+                     /protein_id="UED13370.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFFREDLAFPQGKAREFSS
+                     EQTRANSPTRRELQVWGRDNNSLSEAGADRQGTVSFSFPQITLWQRPLVTIKIGGQLK
+                     EALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVG
+                     PTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEI
+                     CTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP
+                     HPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGW
+                     KGSPAIFQCSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLR
+                     WGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQ
+                     IYAGIKVRQLCKLLRGTKALTEVVPLTEEAELELAENREILKEPVHGVYYDPSKDLIA
+                     EIQKQGQGQWTYQIYQEPFKNLKTGKYARMKGAHTNDVKQLTEAVQKIATESIVIWGK
+                     TPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIIGAETFYVD
+                     GAANRETKLGKAGYVTDRGRQKVVPLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQY
+                     ALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKV
+                     LFLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCS
+                     PGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTVHT
+                     DNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVIESMNKELKKIIGQVRDQAEHLK
+                     TAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSR
+                     DPVWKGPAKLLWKESAIRNTILGRIVSPRCEYQAGHNKVGSLQYLALAALIKPKQIKP
+                     PLPSVRKLTEDRWNKPQKTKGHRGSHTMNGH"
+     CDS             join(337..1632,1632..4643)
+                     /gene="gag-pol"
+                     /ribosomal_slippage
+                     /note="Expressed in infected cells and immature virions.
+                     Cleavage product contains p33 integrase (IN) isoform."
+                     /codon_start=1
+                     /product="Gag-Pol"
+                     /protein_id="UED13371.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFFREDLAFPQGKAREFSS
+                     EQTRANSPTRRELQVWGRDNNSLSEAGADRQGTVSFSFPQITLWQRPLVTIKIGGQLK
+                     EALLDTGADDTVLEEMNLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVG
+                     PTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEI
+                     CTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIP
+                     HPAGLKQKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGW
+                     KGSPAIFQCSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLR
+                     WGFTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQ
+                     IYAGIKVRQLCKLLRGTKALTEVVPLTEEAELELAENREILKEPVHGVYYDPSKDLIA
+                     EIQKQGQGQWTYQIYQEPFKNLKTGKYARMKGAHTNDVKQLTEAVQKIATESIVIWGK
+                     TPKFKLPIQKETWEAWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIIGAETFYVD
+                     GAANRETKLGKAGYVTDRGRQKVVPLTDTTNQKTELQAIHLALQDSGLEVNIVTDSQY
+                     ALGIIQAQPDKSESELVSQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKV
+                     LFLDGIDKAQEEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCS
+                     PGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTVHT
+                     DNGSNFTSTTVKAACWWAGIKQEFGIPYNPQSQGVIESMNKELKKIIGQVRDQAEHLK
+                     TAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSR
+                     DPVWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRDYGKQMAGDDCVASRQDED"
+     CDS             337..1839
+                     /gene="gag-pol"
+                     /codon_start=1
+                     /product="Gag polyprotein"
+                     /protein_id="UED13372.1"
+                     /translation="MGARASVLSGGELDKWEKIRLRPGGKKQYKLKHIVWASRELERF
+                     AVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTIAVLYCVHQRIDVKDTKEALD
+                     KIEEEQNKSKKKAQQAAADTGNNSQVSQNYPIVQNLQGQMVHQAISPRTLNAWVKVVE
+                     EKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPV
+                     HAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRM
+                     YSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTIL
+                     KALGPGATLEEMMTACQGVGGPGHKARVLAEAMSQVTNPATIMIQKGNFRNQRKTVKC
+                     FNCGKEGHIAKNCRAPRKKGCWKCGKEGHQMKDCTERQANFLGKIWPSHKGRPGNFLQ
+                     SRPEPTAPPEESFRFGEETTTPSQKQEPIDKELYPLASLRSLFGSDPSSQ"
+     misc_feature    337..732
+                     /gene="gag-pol"
+                     /product="p17"
+     misc_feature    337..357
+                     /gene="gag-pol"
+                     /note="Psi SL4"
+     misc_feature    733..1425
+                     /gene="gag-pol"
+                     /product="p24"
+     misc_feature    1426..1467
+                     /gene="gag-pol"
+                     /product="p2"
+     misc_feature    1468..1632
+                     /gene="gag-pol"
+                     /product="p7"
+     misc_feature    1630..1800
+                     /gene="gag-pol"
+                     /product="Gag-Pol transframe peptide"
+     misc_feature    1633..1680
+                     /gene="gag-pol"
+                     /product="p1"
+     misc_feature    1681..1836
+                     /gene="gag-pol"
+                     /product="p6"
+     misc_feature    1800..2096
+                     /gene="gag-pol"
+                     /product="protease (PR)"
+     misc_feature    2097..3776
+                     /gene="gag-pol"
+                     /product="p66 subunit of reverse transcriptase (RT)"
+     misc_feature    2097..3416
+                     /gene="gag-pol"
+                     /product="p51 subunit of reverse transcriptase (RT)"
+     misc_feature    3417..3776
+                     /gene="gag-pol"
+                     /note="p15 RNAse domain"
+     misc_feature    join(3777..4509,4937..5010,5523..5591,7916..8329)
+                     /gene="gag-pol"
+                     /product="GENER7-integrase"
+     misc_feature    join(3777..4509,5523..5591,7916..8187)
+                     /gene="gag-pol"
+                     /product="GENER4-integrase"
+     misc_feature    join(3777..4509,5523..5596)
+                     /gene="gag-pol"
+                     /product="GENER5-integrase"
+     misc_feature    join(3777..4605,5324..5346)
+                     /gene="gag-pol"
+                     /product="GENER9-integrase"
+     misc_feature    join(3777..4509,4937..5163)
+                     /gene="gag-pol"
+                     /product="GENER6/8-integrase"
+     misc_feature    3777..4640
+                     /gene="gag-pol"
+                     /product="p33 integrase (IN)"
+     misc_feature    4328..4445
+                     /gene="gag-pol"
+                     /note="cPPT/CTS"
+     misc_feature    4460..4509
+                     /gene="gag-pol"
+                     /note="locus segment 3; pol 1 segment"
+     misc_feature    4510..4605
+                     /gene="gag-pol"
+                     /note="locus segment 4; pol 2 segment; Segment 4."
+     CDS             join(4588..5010,5523..5591,7916..8332)
+                     /gene="gag-pol"
+                     /note="Predicted product contains Vif n-terminus fused
+                     with a novel middle segment and Env c-terminus; HIV-1
+                     splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER11-vif-env"
+                     /protein_id="UED13373.1"
+                     /translation="MENRWQVMIVWQVDRMRINTWKRLVKHHMYISRKAKDWFYRHHY
+                     ESTNPKISSEVHIPLGDAKLVITTYWGLHTGERDWHLGQGVSIEWRKKRYSTQVDPDL
+                     ADQLIHLHYFDCFSESAIRNTILGRIVSPRCEYQAGHNKEEAETATKSSSEQSDSSSF
+                     SIKATHLPIPRGPDRPEGIEEEGGERDRDRSIRLVNGSLALIWDDLRSLCLFSYHRLR
+                     DLLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAVNLLNATAIAVAEGTDRVI
+                     EVLQAAYRAIRHIPRRIRQGLERILL"
+     gene            4588..5696
+                     /gene="vif"
+     CDS             join(4588..5010,5523..5696)
+                     /gene="vif"
+                     /note="Predicted product contains Vif n-terminus fused
+                     with a novel c-terminus; HIV-1 splice-associated putative
+                     protein"
+                     /codon_start=1
+                     /product="GENER3-vif"
+                     /protein_id="UED13374.1"
+                     /translation="MENRWQVMIVWQVDRMRINTWKRLVKHHMYISRKAKDWFYRHHY
+                     ESTNPKISSEVHIPLGDAKLVITTYWGLHTGERDWHLGQGVSIEWRKKRYSTQVDPDL
+                     ADQLIHLHYFDCFSESAIRNTILGRIVSPRCEYQAGHNKEEAETATKSSSEQSDSSSF
+                     SIKAVSSTCNATYNSSNSSISSSNNNSNSCVVHSNHRI"
+     CDS             join(4588..5010,5324..5341)
+                     /gene="vif"
+                     /note="Predicted product contains Vif n-terminus fused
+                     with a novel c-terminus; HIV-1 splice-associated putative
+                     protein"
+                     /codon_start=1
+                     /product="GENER2-vif"
+                     /protein_id="UED13375.1"
+                     /translation="MENRWQVMIVWQVDRMRINTWKRLVKHHMYISRKAKDWFYRHHY
+                     ESTNPKISSEVHIPLGDAKLVITTYWGLHTGERDWHLGQGVSIEWRKKRYSTQVDPDL
+                     ADQLIHLHYFDCFSESAIRNTILGRIVSPRCEYQAGHNKNWVST"
+     CDS             4588..5166
+                     /gene="vif"
+                     /codon_start=1
+                     /product="Vif protein"
+                     /protein_id="UED13376.1"
+                     /translation="MENRWQVMIVWQVDRMRINTWKRLVKHHMYISRKAKDWFYRHHY
+                     ESTNPKISSEVHIPLGDAKLVITTYWGLHTGERDWHLGQGVSIEWRKKRYSTQVDPDL
+                     ADQLIHLHYFDCFSESAIRNTILGRIVSPRCEYQAGHNKVGSLQYLALAALIKPKQIK
+                     PPLPSVRKLTEDRWNKPQKTKGHRGSHTMNGH"
+     CDS             join(4599..4605,4937..5010,5523..5591,7916..8332)
+                     /gene="gag-pol"
+                     /note="Predicted product contains an integrase (IN)
+                     segment functioning as a novel start codon fused with Vif
+                     2nd segment, novel 3rd segment, and Env c-terminus; HIV-1
+                     splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER10"
+                     /protein_id="UED13377.1"
+                     /translation="MAESAIRNTILGRIVSPRCEYQAGHNKEEAETATKSSSEQSDSS
+                     SFSIKATHLPIPRGPDRPEGIEEEGGERDRDRSIRLVNGSLALIWDDLRSLCLFSYHR
+                     LRDLLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAVNLLNATAIAVAEGTDR
+                     VIEVLQAAYRAIRHIPRRIRQGLERILL"
+     CDS             join(4599..4605,4937..5166)
+                     /gene="vif"
+                     /note="Predicted product contains an integrase (IN)
+                     segment functioning as a novel start codon fused with Vif
+                     c-terminus; HIV-1 splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER12-vif"
+                     /protein_id="UED13378.1"
+                     /translation="MAESAIRNTILGRIVSPRCEYQAGHNKVGSLQYLALAALIKPKQ
+                     IKPPLPSVRKLTEDRWNKPQKTKGHRGSHTMNGH"
+     misc_feature    4606..4936
+                     /gene="vif"
+                     /note="locus segment 5; vif 1 segment; Segment 5."
+     misc_feature    4937..5010
+                     /gene="vif"
+                     /note="locus segment 6; vif 2 segment; Segment 6."
+     misc_feature    5011..5323
+                     /gene="vif"
+                     /note="locus segment 7; vif-vpr segment; Segment 7."
+     gene            5106..5396
+                     /gene="vpr"
+     CDS             5106..5396
+                     /gene="vpr"
+                     /codon_start=1
+                     /product="Vpr protein"
+                     /protein_id="UED13379.1"
+                     /translation="MEQAPEDQGPQREPYNEWTLELLEELKSEAVRHFPRIWLHNLGQ
+                     HIYETYGDTWAGVEAIIRILQQLLFIHFRIGCRHSRIGVTRQRRARNGASRS"
+     misc_feature    5290..5295
+                     /gene="vpr"
+                     /note="EcoRI site of recombination"
+     misc_feature    5324..5522
+                     /gene="vif"
+                     /note="locus segment 8; vpr-tat/rev segment; Segment 8."
+     gene            5377..7961
+                     /gene="tat"
+     CDS             join(5377..5591,7916..7961)
+                     /gene="tat"
+                     /note="Also called Tat-2."
+                     /codon_start=1
+                     /product="Tat protein"
+                     /protein_id="UED13380.1"
+                     /translation="MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFMTKALG
+                     ISYGRKKRRQRRRAHQNSQTHQASLSKQPTSQSRGDPTGPKE"
+     CDS             5377..5595
+                     /gene="vif"
+                     /note="Predicted product is the first exon of Tat with
+                     novel terminus; HIV-1 splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER13-tat"
+                     /protein_id="UED13381.1"
+                     /translation="MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFMTKALG
+                     ISYGRKKRRQRRRAHQNSQTHQASLSKQ"
+     gene            5516..8190
+                     /gene="rev"
+     CDS             join(5516..5591,7916..8190)
+                     /gene="rev"
+                     /codon_start=1
+                     /product="Rev protein"
+                     /protein_id="UED13382.1"
+                     /translation="MAGRSGDSDEELIRTVRLIKLLYQSNPPPNPEGTRQARRNRRRR
+                     WRERQRQIHSISERILSTYLGRSAEPVPLQLPPLERLTLDCNEDCGTSGTQGVGSPQI
+                     LVESPTVLESGTKE"
+     CDS             5516..5599
+                     /gene="vif"
+                     /note="Predicted product is the first exon of Rev with
+                     novel terminus; HIV-1 splice-associated putative protein"
+                     /codon_start=1
+                     /product="GENER14-rev"
+                     /protein_id="UED13383.1"
+                     /translation="MAGRSGDSDEELIRTVRLIKLLYQSSK"
+     misc_feature    5523..5591
+                     /gene="vif"
+                     /note="locus segment 9; tat/rev segment (constitutive)"
+     misc_feature    5592..7915
+                     /gene="tat"
+                     /note="locus segment 10; vpu/env segment; Segment 10."
+     gene            5608..5853
+                     /gene="vpu"
+     CDS             5608..5853
+                     /gene="vpu"
+                     /codon_start=1
+                     /product="Vpu protein"
+                     /protein_id="UED13384.1"
+                     /translation="MQPIIVAIVALVVAIIIAIVVWSIVIIEYRKILRQRKIDRLIDR
+                     LIERAEDSGNESEGEVSALVEMGVEMGHHAPWDIDDL"
+     gene            5768..8332
+                     /gene="env"
+     CDS             5768..8332
+                     /gene="env"
+                     /codon_start=1
+                     /product="Env polyprotein"
+                     /protein_id="UED13385.1"
+                     /translation="MRVKEKYQHLWRWGWKWGTMLLGILMICSATEKLWVTVYYGVPV
+                     WKEATTTLFCASDAKAYDTEVHNVWATHACVPTDPNPQEVVLVNVTENFNMWKNDMVE
+                     QMHEDIISLWDQSLKPCVKLTPLCVSLKCTDLKNDTNTNSSSGRMIMEKGEIKNCSFN
+                     ISTSIRDKVQKEYAFFYKLDIVPIDNTSYRLISCNTSVITQACPKVSFEPIPIHYCAP
+                     AGFAILKCNNKTFNGTGPCTNVSTVQCTHGIRPVVSTQLLLNGSLAEEDVVIRSANFT
+                     DNAKTIIVQLNTSVEINCTRPNNNTRKSIRIQRGPGRAFVTIGKIGNMRQAHCNISRA
+                     KWNATLKQIASKLREQFGNNKTIIFKQSSGGDPEIVTHSFNCGGEFFYCNSTQLFNST
+                     WFNSTWSTEGSNNTEGSDTITLPCRIKQFINMWQEVGKAMYAPPISGQIRCSSNITGL
+                     LLTRDGGNNNNGSEIFRPGGGDMRDNWRSELYKYKVVKIEPLGVAPTKAKRRVVQREK
+                     RAVGIGALFLGFLGAAGSTMGAASMTLTVQARQLLSDIVQQQNNLLRAIEAQQHLLQL
+                     TVWGIKQLQARILAVERYLKDQQLLGIWGCSGKLICTTAVPWNASWSNKSLEQIWNNM
+                     TWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWFNITNWLWYIKL
+                     FIMIVGGLVGLRIVFAVLSIVNRVRQGYSPLSFQTHLPIPRGPDRPEGIEEEGGERDR
+                     DRSIRLVNGSLALIWDDLRSLCLFSYHRLRDLLLIVTRIVELLGRRGWEALKYWWNLL
+                     QYWSQELKNSAVNLLNATAIAVAEGTDRVIEVLQAAYRAIRHIPRRIRQGLERILL"
+     misc_feature    5768..7294
+                     /gene="env"
+                     /product="gp120"
+     misc_feature    7295..8329
+                     /gene="env"
+                     /product="gp41"
+     misc_feature    7306..7539
+                     /gene="env"
+                     /note="Rev response element (RRE)"
+     misc_feature    7916..9173
+                     /note="locus segment 11; 3' terminus (constitutive)"
+     gene            8334..8954
+                     /gene="nef"
+     CDS             8334..8954
+                     /gene="nef"
+                     /codon_start=1
+                     /product="Nef protein"
+                     /protein_id="UED13386.1"
+                     /translation="MGGKWSKSSVIGWPAVRERMRRAEPAADGVGAVSRDLEKHGAIT
+                     SSNTAANNAACAWLEAQEEEEVGFPVTPQVPLRPMTYKAAVDLSHFLKEKGGLEGLIH
+                     SQRRQDILDLWIYHTQGYFPDWQNYTPGPGVRYPLTFGWCYKLVPVEPDKVEEANKGE
+                     NTSLLHPVSLHGMDDPEREVLEWRFDSRLAFHHVARELHPEYFKNC"
+     misc_feature    8623..9075
+                     /note="Unique 3' (U3)"
+     repeat_region   9076..9173
+                     /note="3' R repeat"
+ORIGIN      
+        1 gggtctctct ggttagacca gatctgagcc tgggagctct ctggctaact agggaaccca
+       61 ctgcttaagc ctcaataaag cttgccttga gtgctcaaag tagtgtgtgc ccgtctgttg
+      121 tgtgactctg gtaactagag atccctcaga cccttttagt cagtgtggaa aatctctagc
+      181 agtggcgccc gaacagggac ttgaaagcga aagtaaagcc agaggagatc tctcgacgca
+      241 ggactcggct tgctgaagcg cgcacggcaa gaggcgaggg gcggcgactg gtgagtacgc
+      301 caaaaatttt gactagcgga ggctagaagg agagagatgg gtgcgagagc gtcggtatta
+      361 agcgggggag aattagataa atgggaaaaa attcggttaa ggccaggggg aaagaaacaa
+      421 tataaactaa aacatatagt atgggcaagc agggagctag aacgattcgc agttaatcct
+      481 ggccttttag agacatcaga aggctgtaga caaatactgg gacagctaca accatccctt
+      541 cagacaggat cagaagaact tagatcatta tataatacaa tagcagtcct ctattgtgtg
+      601 catcaaagga tagatgtaaa agacaccaag gaagccttag ataagataga ggaagagcaa
+      661 aacaaaagta agaaaaaggc acagcaagca gcagctgaca caggaaacaa cagccaggtc
+      721 agccaaaatt accctatagt gcagaacctc caggggcaaa tggtacatca ggccatatca
+      781 cctagaactt taaatgcatg ggtaaaagta gtagaagaga aggctttcag cccagaagta
+      841 atacccatgt tttcagcatt atcagaagga gccaccccac aagatttaaa taccatgcta
+      901 aacacagtgg ggggacatca agcagccatg caaatgttaa aagagaccat caatgaggaa
+      961 gctgcagaat gggatagatt gcatccagtg catgcagggc ctattgcacc aggccagatg
+     1021 agagaaccaa ggggaagtga catagcagga actactagta cccttcagga acaaatagga
+     1081 tggatgacac ataatccacc tatcccagta ggagaaatct ataaaagatg gataatcctg
+     1141 ggattaaata aaatagtaag aatgtatagc cctaccagca ttctggacat aagacaagga
+     1201 ccaaaggaac cctttagaga ctatgtagac cgattctata aaactctaag agccgagcaa
+     1261 gcttcacaag aggtaaaaaa ttggatgaca gaaaccttgt tggtccaaaa tgcgaaccca
+     1321 gattgtaaga ctattttaaa agcattggga ccaggagcga cactagaaga aatgatgaca
+     1381 gcatgtcagg gagtgggggg acccggccat aaagcaagag ttttggctga agcaatgagc
+     1441 caagtaacaa atccagctac cataatgata cagaaaggca attttaggaa ccaaagaaag
+     1501 actgttaagt gtttcaattg tggcaaagaa gggcacatag ccaaaaattg cagggcccct
+     1561 aggaaaaagg gctgttggaa atgtggaaag gaaggacacc aaatgaaaga ttgtactgag
+     1621 agacaggcta attttttagg gaagatctgg ccttcccaca agggaaggcc agggaatttt
+     1681 cttcagagca gaccagagcc aacagcccca ccagaagaga gcttcaggtt tggggaagag
+     1741 acaacaactc cctctcagaa gcaggagccg atagacaagg aactgtatcc tttagcttcc
+     1801 ctcagatcac tctttggcag cgacccctcg tcacaataaa gatagggggg caattaaagg
+     1861 aagctctatt agatacagga gcagatgata cagtattaga agaaatgaat ttgccaggaa
+     1921 gatggaaacc aaaaatgata gggggaattg gaggttttat caaagtaaga cagtatgatc
+     1981 agatactcat agaaatctgc ggacataaag ctataggtac agtattagta ggacctacac
+     2041 ctgtcaacat aattggaaga aatctgttga ctcagattgg ctgcacttta aattttccca
+     2101 ttagtcctat tgagactgta ccagtaaaat taaagccagg aatggatggc ccaaaagtta
+     2161 aacaatggcc attgacagaa gaaaaaataa aagcattagt agaaatttgt acagaaatgg
+     2221 aaaaggaagg aaaaatttca aaaattgggc ctgaaaatcc atacaatact ccagtatttg
+     2281 ccataaagaa aaaagacagt actaaatgga gaaaattagt agatttcaga gaacttaata
+     2341 agagaactca agatttctgg gaagttcaat taggaatacc acatcctgca gggttaaaac
+     2401 agaaaaaatc agtaacagta ctggatgtgg gcgatgcata tttttcagtt cccttagata
+     2461 aagacttcag gaagtatact gcatttacca tacctagtat aaacaatgag acaccaggga
+     2521 ttagatatca gtacaatgtg cttccacagg gatggaaagg atcaccagca atattccagt
+     2581 gtagcatgac aaaaatctta gagcctttta gaaaacaaaa tccagacata gtcatctatc
+     2641 aatacatgga tgatttgtat gtaggatctg acttagaaat agggcagcat agaacaaaaa
+     2701 tagaggaact gagacaacat ctgttgaggt ggggatttac cacaccagac aaaaaacatc
+     2761 agaaagaacc tccattcctt tggatgggtt atgaactcca tcctgataaa tggacagtac
+     2821 agcctatagt gctgccagaa aaggacagct ggactgtcaa tgacatacag aaattagtgg
+     2881 gaaaattgaa ttgggcaagt cagatttatg cagggattaa agtaaggcaa ttatgtaaac
+     2941 ttcttagggg aaccaaagca ctaacagaag tagtaccact aacagaagaa gcagagctag
+     3001 aactggcaga aaacagggag attctaaaag aaccggtaca tggagtgtat tatgacccat
+     3061 caaaagactt aatagcagaa atacagaagc aggggcaagg ccaatggaca tatcaaattt
+     3121 atcaagagcc atttaaaaat ctgaaaacag gaaagtatgc aagaatgaag ggtgcccaca
+     3181 ctaatgatgt gaaacaatta acagaggcag tacaaaaaat agccacagaa agcatagtaa
+     3241 tatggggaaa gactcctaaa tttaaattac ccatacaaaa ggaaacatgg gaagcatggt
+     3301 ggacagagta ttggcaagcc acctggattc ctgagtggga gtttgtcaat acccctccct
+     3361 tagtgaagtt atggtaccag ttagagaaag aacccataat aggagcagaa actttctatg
+     3421 tagatggggc agccaatagg gaaactaaat taggaaaagc aggatatgta actgacagag
+     3481 gaagacaaaa agttgtcccc ctaacggaca caacaaatca gaagactgag ttacaagcaa
+     3541 ttcatctagc tttgcaggat tcgggattag aagtaaacat agtgacagac tcacaatatg
+     3601 cattgggaat cattcaagca caaccagata agagtgaatc agagttagtc agtcaaataa
+     3661 tagagcagtt aataaaaaag gaaaaagtct acctggcatg ggtaccagca cacaaaggaa
+     3721 ttggaggaaa tgaacaagta gataaattgg tcagtgctgg aatcaggaaa gtactatttt
+     3781 tagatggaat agataaggcc caagaagaac atgagaaata tcacagtaat tggagagcaa
+     3841 tggctagtga ttttaaccta ccacctgtag tagcaaaaga aatagtagcc agctgtgata
+     3901 aatgtcagct aaaaggggaa gccatgcatg gacaagtaga ctgtagccca ggaatatggc
+     3961 agctagattg tacacattta gaaggaaaag ttatcttggt agcagttcat gtagccagtg
+     4021 gatatataga agcagaagta attccagcag agacagggca agaaacagca tacttcctct
+     4081 taaaattagc aggaagatgg ccagtaaaaa cagtacatac agacaatggc agcaatttca
+     4141 ccagtactac agttaaggcc gcctgttggt gggcggggat caagcaggaa tttggcattc
+     4201 cctacaatcc ccaaagtcaa ggagtaatag aatctatgaa taaagaatta aagaaaatta
+     4261 taggacaggt aagagatcag gctgaacatc ttaagacagc agtacaaatg gcagtattca
+     4321 tccacaattt taaaagaaaa ggggggattg gggggtacag tgcaggggaa agaatagtag
+     4381 acataatagc aacagacata caaactaaag aattacaaaa acaaattaca aaaattcaaa
+     4441 attttcgggt ttattacagg gacagcagag atccagtttg gaaaggacca gcaaagctcc
+     4501 tctggaaagg tgaaggggca gtagtaatac aagataatag tgacataaaa gtagtgccaa
+     4561 gaagaaaagc aaagatcatc agggattatg gaaaacagat ggcaggtgat gattgtgtgg
+     4621 caagtagaca ggatgaggat taacacatgg aaaagattag taaaacacca tatgtatatt
+     4681 tcaaggaaag ctaaggactg gttttataga catcactatg aaagtactaa tccaaaaata
+     4741 agttcagaag tacacatccc actaggggat gctaaattag taataacaac atattggggt
+     4801 ctgcatacag gagaaagaga ctggcatttg ggtcagggag tctccataga atggaggaaa
+     4861 aagagatata gcacacaagt agaccctgac ctagcagacc aactaattca tctgcactat
+     4921 tttgattgtt tttcagaatc tgctataaga aataccatat taggacgtat agttagtcct
+     4981 aggtgtgaat atcaagcagg acataacaag gtaggatctc tacagtactt ggcactagca
+     5041 gcattaataa aaccaaaaca gataaagcca cctttgccta gtgttaggaa actgacagag
+     5101 gacagatgga acaagcccca gaagaccaag ggccacagag ggagccatac aatgaatgga
+     5161 cactagagct tttagaggaa cttaagagtg aagctgttag acattttcct aggatatggc
+     5221 tccataactt aggacaacat atctatgaaa cttacgggga tacttgggca ggagtggaag
+     5281 ccataataag aattctgcaa caactgctgt ttatccattt cagaattggg tgtcgacata
+     5341 gcagaatagg cgttactcga cagaggagag caagaaatgg agccagtaga tcctagacta
+     5401 gagccctgga agcatccagg aagtcagcct aaaactgctt gtaccaattg ctattgtaaa
+     5461 aagtgttgct ttcattgcca agtttgtttc atgacaaaag ccttaggcat ctcctatggc
+     5521 aggaagaagc ggagacagcg acgaagagct catcagaaca gtcagactca tcaagcttct
+     5581 ctatcaaagc agtaagtagt acatgtaatg caacctataa tagtagcaat agtagcatta
+     5641 gtagtagcaa taataatagc aatagttgtg tggtccatag taatcataga atataggaaa
+     5701 atattaagac aaagaaaaat agacaggtta attgatagac taatagaaag agcagaagac
+     5761 agtggcaatg agagtgaagg agaagtatca gcacttgtgg agatgggggt ggaaatgggg
+     5821 caccatgctc cttgggatat tgatgatctg tagtgctaca gaaaaattgt gggtcacagt
+     5881 ctattatggg gtacctgtgt ggaaggaagc aaccaccact ctattttgtg catcagatgc
+     5941 taaagcatat gatacagagg tacataatgt ttgggccaca catgcctgtg tacccacaga
+     6001 ccccaaccca caagaagtag tattggtaaa tgtgacagaa aattttaaca tgtggaaaaa
+     6061 tgacatggta gaacagatgc atgaggatat aatcagttta tgggatcaaa gcctaaagcc
+     6121 atgtgtaaaa ttaaccccac tctgtgttag tttaaagtgc actgatttga agaatgatac
+     6181 taataccaat agtagtagcg ggagaatgat aatggagaaa ggagagataa aaaactgctc
+     6241 tttcaatatc agcacaagca taagagataa ggtgcagaaa gaatatgcat tcttttataa
+     6301 acttgatata gtaccaatag ataataccag ctataggttg ataagttgta acacctcagt
+     6361 cattacacag gcctgtccaa aggtatcctt tgagccaatt cccatacatt attgtgcccc
+     6421 ggctggtttt gcgattctaa aatgtaataa taagacgttc aatggaacag gaccatgtac
+     6481 aaatgtcagc acagtacaat gtacacatgg aatcaggcca gtagtatcaa ctcaactgct
+     6541 gttaaatggc agtctagcag aagaagatgt agtaattaga tctgccaatt tcacagacaa
+     6601 tgctaaaacc ataatagtac agctgaacac atctgtagaa attaattgta caagacccaa
+     6661 caacaataca agaaaaagta tccgtatcca gaggggacca gggagagcat ttgttacaat
+     6721 aggaaaaata ggaaatatga gacaagcaca ttgtaacatt agtagagcaa aatggaatgc
+     6781 cactttaaaa cagatagcta gcaaattaag agaacaattt ggaaataata aaacaataat
+     6841 ctttaagcaa tcctcaggag gggacccaga aattgtaacg cacagtttta attgtggagg
+     6901 ggaatttttc tactgtaatt caacacaact gtttaatagt acttggttta atagtacttg
+     6961 gagtactgaa gggtcaaata acactgaagg aagtgacaca atcacactcc catgcagaat
+     7021 aaaacaattt ataaacatgt ggcaggaagt aggaaaagca atgtatgccc ctcccatcag
+     7081 tggacaaatt agatgttcat caaatattac tgggctgcta ttaacaagag atggtggtaa
+     7141 taacaacaat gggtccgaga tcttcagacc tggaggaggc gatatgaggg acaattggag
+     7201 aagtgaatta tataaatata aagtagtaaa aattgaacca ttaggagtag cacccaccaa
+     7261 ggcaaagaga agagtggtgc agagagaaaa aagagcagtg ggaataggag ctttgttcct
+     7321 tgggttcttg ggagcagcag gaagcactat gggcgcagcg tcaatgacgc tgacggtaca
+     7381 ggccagacaa ttattgtctg atatagtgca gcagcagaac aatttgctga gggctattga
+     7441 ggcgcaacag catctgttgc aactcacagt ctggggcatc aaacagctcc aggcaagaat
+     7501 cctggctgtg gaaagatacc taaaggatca acagctcctg gggatttggg gttgctctgg
+     7561 aaaactcatt tgcaccactg ctgtgccttg gaatgctagt tggagtaata aatctctgga
+     7621 acagatttgg aataacatga cctggatgga gtgggacaga gaaattaaca attacacaag
+     7681 cttaatacac tccttaattg aagaatcgca aaaccagcaa gaaaagaatg aacaagaatt
+     7741 attggaatta gataaatggg caagtttgtg gaattggttt aacataacaa attggctgtg
+     7801 gtatataaaa ttattcataa tgatagtagg aggcttggta ggtttaagaa tagtttttgc
+     7861 tgtactttct atagtgaata gagttaggca gggatattca ccattatcgt ttcagaccca
+     7921 cctcccaatc ccgaggggac ccgacaggcc cgaaggaata gaagaagaag gtggagagag
+     7981 agacagagac agatccattc gattagtgaa cggatcctta gcacttatct gggacgatct
+     8041 gcggagcctg tgcctcttca gctaccaccg cttgagagac ttactcttga ttgtaacgag
+     8101 gattgtggaa cttctgggac gcagggggtg ggaagccctc aaatattggt ggaatctcct
+     8161 acagtattgg agtcaggaac taaagaatag tgctgttaac ttgctcaatg ccacagccat
+     8221 agcagtagct gaggggacag atagggttat agaagtatta caagcagctt atagagctat
+     8281 tcgccacata cctagaagaa taagacaggg cttggaaagg attttgctat aagatgggtg
+     8341 gcaagtggtc aaaaagtagt gtgattggat ggcctgctgt aagggaaaga atgagacgag
+     8401 ctgagccagc agcagatggg gtgggagcag tatctcgaga cctagaaaaa catggagcaa
+     8461 tcacaagtag caatacagca gctaacaatg ctgcttgtgc ctggctagaa gcacaagagg
+     8521 aggaagaggt gggttttcca gtcacacctc aggtaccttt aagaccaatg acttacaagg
+     8581 cagctgtaga tcttagccac tttttaaaag aaaagggggg actggaaggg ctaattcact
+     8641 cccaaagaag acaagatatc cttgatctgt ggatctacca cacacaaggc tacttccctg
+     8701 attggcagaa ctacacacca gggccagggg tcagatatcc actgaccttt ggatggtgct
+     8761 acaagctagt accagttgag ccagataagg tagaagaggc caataaagga gagaacacca
+     8821 gcttgttaca ccctgtgagc ctgcatggaa tggatgaccc tgagagagaa gtgttagagt
+     8881 ggaggtttga cagccgccta gcatttcatc acgtggcccg agagctgcat ccggagtact
+     8941 tcaagaactg ctgacatcga gcttgctaca agggactttc cgctggggac tttccaggga
+     9001 ggcgtggcct gggcgggact ggggagtggc gagccctcag atgctgcata taagcagctg
+     9061 ctttttgcct gtactgggtc tctctggtta gaccagatct gagcctggga gctctctggc
+     9121 taactaggga acccactgct taagcctcaa taaagcttgc cttgagtgct tca
+//
