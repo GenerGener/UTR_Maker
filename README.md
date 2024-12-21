@@ -1,7 +1,7 @@
 # UTR_maker
 Make 5' and 3' UTRs from annotated cDNA mRNA transcript models.
 
-# UTR Maker Tutorial
+# Tutorial
 
 This tutorial demonstrates how to use the UTR Maker script "utr_maker.py" to analyze GenBank files and extract 5' and 3' UTR regions from mRNA transcript models. We'll use two example files: MZ242719.txt and MZ242720.txt.
 
